@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c6612341.css",
+    "main.js": "/static/js/main.82251d18.js",
+    "static/js/797.0064caca.chunk.js": "/static/js/797.0064caca.chunk.js",
+    "static/js/862.4c89d156.chunk.js": "/static/js/862.4c89d156.chunk.js",
+    "static/js/787.1b1a6f1b.chunk.js": "/static/js/787.1b1a6f1b.chunk.js",
+    "static/css/758.991670b0.chunk.css": "/static/css/758.991670b0.chunk.css",
+    "static/media/logo.png": "/static/media/logo.2387ec10e0475c765332.png",
+    "static/media/question_1.png": "/static/media/question_1.70a2781f3e4dcccf3298.png",
+    "static/media/road.png": "/static/media/road.e048aa24ff5b71c0fd76.png",
+    "static/media/character_cat.gif": "/static/media/character_cat.d2ed812b4f134ecadf12.gif",
+    "static/media/character_pig.gif": "/static/media/character_pig.46134ad0b79c7f758bbb.gif",
+    "static/media/question_2.png": "/static/media/question_2.491ce75a07734384a430.png",
+    "static/media/character_f2e.gif": "/static/media/character_f2e.88c91ceb24cd0a7bf431.gif",
+    "static/media/question_3.png": "/static/media/question_3.7fc02a3111446cf784a7.png",
+    "static/media/logo_text.png": "/static/media/logo_text.cd73e40d997fe6333c10.png",
+    "static/media/start.png": "/static/media/start.b6699334c8ae42667199.png",
+    "static/media/bg_decorate_09.png": "/static/media/bg_decorate_09.84c3aae6cf8a1d251ccc.png",
+    "static/media/bg_decorate_05.png": "/static/media/bg_decorate_05.a268cce1fc3895270363.png",
+    "static/media/week_1.png": "/static/media/week_1.d11a4aeaa2f85937ad8f.png",
+    "static/media/week_2.png": "/static/media/week_2.1580095adf764e9cd9d3.png",
+    "static/media/week_3.png": "/static/media/week_3.35237d2dd38d8d03fdd9.png",
+    "static/media/bg_decorate_01.png": "/static/media/bg_decorate_01.ae126895467e4273353d.png",
+    "static/media/bg_talking_c.png": "/static/media/bg_talking_c.f704674c082016cd05e2.png",
+    "static/media/ready_frame.png": "/static/media/ready_frame.bf4d7b01ce5a08b3f5c4.png",
+    "index.html": "/index.html",
+    "main.c6612341.css.map": "/static/css/main.c6612341.css.map",
+    "main.82251d18.js.map": "/static/js/main.82251d18.js.map",
+    "797.0064caca.chunk.js.map": "/static/js/797.0064caca.chunk.js.map",
+    "862.4c89d156.chunk.js.map": "/static/js/862.4c89d156.chunk.js.map",
+    "787.1b1a6f1b.chunk.js.map": "/static/js/787.1b1a6f1b.chunk.js.map",
+    "758.991670b0.chunk.css.map": "/static/css/758.991670b0.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6612341.css",
+    "static/js/main.82251d18.js"
+  ]
+}
